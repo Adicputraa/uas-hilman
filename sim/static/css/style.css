@@ -1,0 +1,11 @@
+.jumbotron{
+    background-color: white;
+    font-family: sans-serif;
+    
+}
+
+.navbar-brand{
+    font-weight: bold;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
